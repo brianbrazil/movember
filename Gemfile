@@ -41,4 +41,7 @@ gem 'bootstrap-sass'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+<<<<<<< HEAD
 ruby '2.1.2'
+=======
+>>>>>>> f6adef0... Initial commit
